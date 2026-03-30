@@ -9,3 +9,7 @@ albumentations
 fastapi
 uvicorn
 streamlit-drawable-canvas
+python-multipart
+pandas
+onnx
+onnxruntime
