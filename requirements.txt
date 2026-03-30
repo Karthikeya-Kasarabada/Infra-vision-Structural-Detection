@@ -1,0 +1,11 @@
+torch
+torchvision
+ultralytics
+streamlit
+opencv-python-headless
+Pillow
+numpy
+albumentations
+fastapi
+uvicorn
+streamlit-drawable-canvas

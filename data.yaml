@@ -1,0 +1,8 @@
+names:
+  0: Intact
+  1: Crack
+  2: Spalling/Severe Damage
+nc: 3
+path: D:\Infravision Structural Detection in Buildings Using CNN and Edge Ai\mock_dataset
+train: images/train
+val: images/val
